@@ -11,7 +11,7 @@ main{
     height: 95vh;
     width: 100vw;
     position: absolute;
-    background-image: url(../Imagens/star-bg.svg);
+    background-image: url(star-bg.svg);
     background-size: cover;
     z-index: -2;
 }
