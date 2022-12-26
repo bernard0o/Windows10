@@ -51,14 +51,14 @@ header div.navegacao a{
 
 header div.navegacao a:hover{
     color: rgb(37, 61, 61);
-    box-shadow: inset 150px 0px 0px 0px aliceblue;
+    box-shadow: inset 190px 0px 0px 0px aliceblue;
 }
 
 header div#menu, div#menuescondido{
     display: none;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 900px){
     header div.navegacao{
         display: none;
     }

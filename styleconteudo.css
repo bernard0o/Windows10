@@ -31,7 +31,7 @@ main h1{
     font-size: 2.5em;
 }
 
-main p{
+main p, li{
     font-family: 'Quicksand';
     font-weight: 400;
     text-align: justify;
@@ -54,4 +54,15 @@ button{
 button:hover{
     color: white;
     box-shadow: inset 150px 0px 0px 0px rgb(23, 38, 38);
+}
+
+h2{
+    text-align: left;
+    font-family: 'Quicksand';
+    font-weight: 400;
+}
+
+li{
+    text-align: left;
+    font-size: 1.3em;
 }
